@@ -4,7 +4,13 @@ This Jupyter Notebook, titled "What Features Affect Laptop Prices?", is a compre
 
 # Installation
 To run this notebook, ensure you have Python installed on your system. You can download Python from python.org. Once Python is installed, install the necessary dependencies using pip:
-```pip install numpy pandas matplotlib seaborn scikit-learn```
+```
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+or you will need to install the required Python packages. You can do this by running the following command in your terminal:
+```
+pip install -r requirements.txt
+```
 
 # Usage
 To use this notebook:
